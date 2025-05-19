@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-Hey there! I'm **Mehetab**, also known as `Mehetab's ai`. I'm a:
+Hey there! I'm **Mehetab**, also known as `craftingcrazegaming`. I'm a:
 - ⚡ Developer of cool apps, mods & systems  
 - 🧱 Minecraft Addon & Mod Creator (MCPE & Java)  
 - 💡 Creative mind behind Craze Panel, Crazefy, CraftingCraze, and more  
