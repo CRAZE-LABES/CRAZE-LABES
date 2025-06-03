@@ -32,7 +32,7 @@ Hey there! I'm **Mehetab**, also known as `craftingcrazegaming`. I'm a:
 
 ## 🚀 Projects I’m Working On
 
-- **Craze Panel** – Powerful game management panel (Better than Pterodactyl)
+- **Craze Panel** – Powerful game management panel (Better than skyport)
 - **CraftingCraze** – Ultimate gaming website with YouTube/Discord integration
 - **Crazefy** – Music + Video app inspired by Spotify + YouTube
 - **CARZEFY** – Next-gen YouTube-style player with background audio
